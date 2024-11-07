@@ -32,8 +32,8 @@ slogan        : 'A Minimalistic Jekyll Theme'
 
 
 # Build settings
-url           : 'https://geniusvibes555.github.io/website-revisit'
-baseurl       : ''
+url           : 'https://geniusvibes555.github.io'
+baseurl       : '/website-revisit'
 markdown      : kramdown
 highlighter   : rouge
 permalink     : /:categories/:title/
