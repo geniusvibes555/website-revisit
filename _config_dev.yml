@@ -11,6 +11,8 @@ baseurl: 	''
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
   noscript: false
+  
+color_scheme: simplicity
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
