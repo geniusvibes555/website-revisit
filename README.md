@@ -1,27 +1,60 @@
-# Minimal Mistakes remote theme starter
+**Support Theme Development**
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+[![](https://phlow.github.io/static/screenshot_simplicity_theme.jpg)][1]
 
-Contains basic configuration to get you a site with:
+# [*Simplicity*][1]
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+[*Simplicity*][1] is a Jekyll Theme for minimalists focused on essentials avoiding unnecessary clutter. But still giving you all you need to build wonderful pages for your content.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
----
 
-## Troubleshooting
+## What's special about *Simplicity*?
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+***Simplicity…***  
+**…works with GitHub Pages.** Free webspace for you.  
+**…delivers your site fast.** No Javascript/jQuery needed.  
+**…offers flexible styling** of your content.  
+**…helps you** and is well-documented inside.  
+**…is highly customizable** and offers you Tumblr-like postings.  
+**…is minimalistic** and has no clutter.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+
+## Screenshots
+
+![](https://phlow.github.io/static/simplicity-screenshots-1.jpg)
+
+
+
+
+## How to get started?
+
+1. [Download *Simplicity*](https://github.com/Phlow/simplicity/archive/gh-pages.zip)
+2. Unzip the archive.
+3. Open the *Simplicity*-folder in your Terminal.
+4. Type `bundle install`
+5. Type `bundle exec jekyll serve --config _config.yml,_config_dev.yml`
+6. Visit *<http://localhost:4000/>* in your browser.
+7. Start customizing *Simplicity* to your liking :)
+
+*What does this do?* [Bundler](http://bundler.io/) is a tool to help you install all the needed Gems (programs, modules) needed to use Simplicity. The second command starts Jekyll with bundler and overwrites with the second configuration file *_config_dev.yml* some settings in *_config.yml* like the URL with the development URL *http://localhost:4000/*.
+
+
+## Newsletter: Stay in Touch for Future Updates
+
+If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
+
+[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
+
+
+
+ [1]: https://phlow.github.io/simplicity
+ [2]: #
+ [3]: #
+ [4]: #
+ [5]: #
+ [6]: #
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #
